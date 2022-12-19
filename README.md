@@ -1,2 +1,2 @@
 # Landing-Page
-HTML/CSS Project from OdinProject
+Created a landing page using HTML & CSS.
